@@ -17,12 +17,12 @@
 
                     <!-- slider content -->
                     <div class="slider-teaser white">
-                        <h1>The Ultimate<br> Theme</h1>
+                        <h1>Inspiro<br> Web Studio</h1>
                         <hr>
                         <div class="slider-teaser-text">
-                            <p>Fully Responsive, Clean, Flexible and incredibly easy to use.</p>
+                            <p>Поможем обрести Вам и вашему бизнесу дом в Интернете.</p>
                         </div>
-                        <a href="#about" class="slider-teaser-link">About us</a>
+                        <a href="#about" class="slider-teaser-link">О нас</a>
                     </div>
 
                     <!-- slider bottom arrow -->
@@ -44,18 +44,18 @@
 
                     <!-- slider content -->
                     <div class="slider-teaser white">
-                        <h1>Fully<br>Responsive</h1>
+                        <h1>Мы любим<br>красоту.</h1>
                         <hr>
                         <div class="slider-teaser-text">
-                            <p>Digital solutions that engage, inspire and make you think.</p>
+                            <p>Поэтому выполняем свою работу так, чтобы нам это нравилось наравне с Вами.</p>
                         </div>
-                        <a href="#about" class="slider-teaser-link">View Works</a>
+                        <a href="#sp_block" class="slider-teaser-link">Наши особенности</a>
                     </div>
 
                     <!-- slider bottom arrow -->
                     <div class="arrow">
                         <div class="arrow-block">
-                            <a class="arrow-up-click" href="#about">
+                            <a class="arrow-up-click" href="#sp_block">
                                 <img alt="" src="{{ asset('front/img/arrow-down.png') }}" />
                             </a>
                         </div>
@@ -71,18 +71,18 @@
 
                     <!-- slider content -->
                     <div class="slider-teaser white">
-                        <h1>Design<br>With Love</h1>
+                        <h1>Работаем<br>с душой</h1>
                         <hr>
                         <div class="slider-teaser-text">
-                            <p>We can assure that you will love using this theme!</p>
+                            <p>Создадим то, что нужно для развития Вашего бизнеса, начиная от лендинга до огромных CRM.</p>
                         </div>
-                        <a href="#about" class="slider-teaser-link">Contact us</a>
+                        <a href="#services" class="slider-teaser-link">Услуги</a>
                     </div>
 
                     <!-- slider bottom arrow -->
                     <div class="arrow">
                         <div class="arrow-block">
-                            <a class="arrow-up-click" href="#about">
+                            <a class="arrow-up-click" href="#services">
                                 <img alt="" src="{{ asset('front/img/arrow-down.png') }}" />
                             </a>
                         </div>
@@ -91,7 +91,7 @@
                 </div>
                 <!-- End Slider 3 -->
 
-                <!--Slider 4 -->
+                {{--<!--Slider 4 -->
                 <div class="swiper-slide slide-4">
                     <!--overlay -->
                     <div class="parallax-overlay"></div>
@@ -142,7 +142,7 @@
                         </div>
                     </div>
                 </div>
-                <!--End Slider 5 -->
+                <!--End Slider 5 -->--}}
 
             </div><!--End Swipper Wrapper -->
         </div><!-- swiper-container -->

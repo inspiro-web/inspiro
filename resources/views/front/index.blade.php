@@ -65,7 +65,7 @@
         <x-services></x-services>
         <x-process></x-process>
         <x-separator></x-separator>
-        <x-portfolio></x-portfolio>
+        {{--<x-portfolio></x-portfolio>--}}
         <x-clients></x-clients>
         <x-testimonials></x-testimonials>
         {{--<x-news-fun></x-news-fun>--}}
