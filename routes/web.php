@@ -13,6 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'FrontController@index')->name('front.index');
+
+Route::post('/sendfeedback', 'FrontController@sendFeedback')->name('front.sendFeedback');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
