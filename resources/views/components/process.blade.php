@@ -53,12 +53,12 @@
                     <div class="si-inner">
                         <div class="service-intro">
                             <div class="service-icon">
-                                <span class="icon icon-heart"></span>
+                                <span class="icon icon-edit"></span>
                             </div>
                             <h4 class="service-title">Разработка</h4>
                         </div>
                         <div class="service-descr">
-                            Cras vehicula mi eu est vestibulum posuere. Duis et purus at nunc laoreet euismod ut sit amet sem. Proin rhoncus imperdiet consequat lacus arcu vitae magna condimentum pellentesque.
+                            На данном этапе мы возьмем борозды правления в свои руки и наполним бездыханный шаблон жизнью и функционалом. Вашей же задачей будет являться лишь проверка и тестирование результатов проделанной нами работы.
                         </div>
                     </div>
                 </div>
@@ -71,12 +71,12 @@
                     <div class="si-inner">
                         <div class="service-intro">
                             <div class="service-icon">
-                                <span class="icon icon-rocket"></span>
+                                <span class="icon icon-download"></span>
                             </div>
                             <h4 class="service-title">Публикация</h4>
                         </div>
                         <div class="service-descr">
-                            Cras vehicula mi eu est vestibulum posuere. Duis et purus at nunc laoreet euismod ut sit amet sem. Proin rhoncus imperdiet consequat lacus arcu vitae magna condimentum pellentesque.
+                            Когда разработка будет завершена, а дизайн и функционал протестированы и подтверждены, мы "выпустим" готовый проект в открытое плавание и передадим Вам все необходимые материалы для управления. Либо же оставим у себя на обслуживание. Решать Вам.
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
         </div>
     </section>
     <div class="section-scroll">
-        <a class="next-section" href="#our-work"><span class="section-arrow"></span></a>
+        <a class="next-section" href="#contacts"><span class="section-arrow"></span></a>
     </div>
 </section>
 <!-- End Process block -->

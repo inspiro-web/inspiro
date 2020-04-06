@@ -15,12 +15,14 @@
                 <nav class="collapse navbar-collapse" role="navigation">
                     <ul class="nav navbar-nav whitetext">
                         <li><a href="#about">О нас</a></li>
+                        <li><a href="#sp_block">Особенности</a></li>
                         {{--<li><a href="#team">Команда</a></li>--}}
                         <li><a href="#services">Услуги</a></li>
-                        <li><a href="#our-work">Портфолио</a></li>
+                        <li><a href="#process">Техпроцесс</a></li>
+                        {{--<li><a href="#our-work">Портфолио</a></li>--}}
                         {{--<li><a href="#news">Новости</a></li>--}}
                         <li><a href="#contacts">Контакты</a></li>
-                        <li><a href="thoughts.html">Блог</a></li>
+                        {{--<li><a href="thoughts.html">Блог</a></li>--}}
                     </ul>
                     <div id="toggle-navbar"><i class="fa fa-angle-right"></i></div>
                 </nav>

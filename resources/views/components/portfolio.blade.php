@@ -2,18 +2,18 @@
 <section id="our-work">
     <div class="container">
         <div class="col-lg-12 text-center">
-            <h2>Portfolio of work</h2>
+            <h2>Наши работы</h2>
             <hr>
-            <p class="lead">Continuously creating daring digital solutions. View some of the our latest <br>work we have crafted with love. </p>
+            <p class="lead">Так как мы еще только развиваемся, поэтому и работ у нас пока не много. Но скоро все изменится. </p>
         </div>
     </div>
     <!-- BEGIN WRAPPER -->
     <div class="wrapper">
         <div id="filters-container" class="cbp-l-filters-alignCenter">
-            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">All<div class="cbp-filter-counter"></div></div>
-            <div data-filter=".identity" class="cbp-filter-item">Identity<div class="cbp-filter-counter"></div></div>
-            <div data-filter=".web-design" class="cbp-filter-item">Web Design<div class="cbp-filter-counter"></div></div>
-            <div data-filter=".graphic" class="cbp-filter-item">Graphic<div class="cbp-filter-counter"></div></div>
+            <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">Все<div class="cbp-filter-counter"></div></div>
+            <div data-filter=".complete" class="cbp-filter-item">Готовые проекты<div class="cbp-filter-counter"></div></div>
+            <div data-filter=".support" class="cbp-filter-item">Обслуживание<div class="cbp-filter-counter"></div></div>
+            <div data-filter=".promotion" class="cbp-filter-item">Продвижение<div class="cbp-filter-counter"></div></div>
         </div>
 
         <!-- BEGIN: PORTFOLIO ITEMS - MASONRY -->
